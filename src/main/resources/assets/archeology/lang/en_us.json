@@ -1,0 +1,14 @@
+{
+  "item.archeology.brush": "Brush",
+
+  "block.archeology.copper_ore": "Copper Ore",
+  "block.archeology.lightning_rod": "Lightning Rod",
+
+  "block.archeology.copper_block": "Copper Block",
+  "block.archeology.slightly_weathered_copper_block": "Slightly Weathered Copper Block",
+
+  "block.archeology.waxed_copper_block": "Waxed Copper Block",
+  "block.archeology.waxed_slightly_weathered_copper_block": "Waxed Slightly Weathered Copper Block",
+
+  "itemGroup.archeology": "Archeology"
+}
